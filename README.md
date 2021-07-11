@@ -1,5 +1,5 @@
 # saebio-metabase
-This is the Metabase module of the Degree Final Project `sæbio: development of a dashboard for the multidimensional analysis of COVID-19`, which integrates different dashboards to accomplish the multidimensional analysis of SARS-CoV-2 detection tests.
+This is the Metabase module of the Degree Final Project `sæbio: development of a dashboard for the multidimensional analysis of COVID-19`, which integrates different dashboards to accomplish the multidimensional analysis of SARS-CoV-2 detection tests. See all of the project modules [here](https://github.com/gabrilopez/saebio-c19).
 
 
 
